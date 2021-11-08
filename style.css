@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+}
+.header{
+    background-color: rgba(135, 178, 34, 0.733);
+    display:flex;
+    justify-content: space-between;
+}
+.fodder{
+
+    display:flex;
+    justify-content:flex-end
+}
+p,h2{
+    text-align:left
+}
+
+.joe{
+
+    display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly
+}
+
+.ligma{
+    
+}
